@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meghana\\source\\repos\\MVC_Client\\Mvc_Client.csproj": {}
+    "C:\\Users\\Meghana\\Desktop\\gitrepo\\MVC_Client\\Mvc_Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meghana\\source\\repos\\MVC_Client\\Mvc_Client.csproj": {
+    "C:\\Users\\Meghana\\Desktop\\gitrepo\\MVC_Client\\Mvc_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meghana\\source\\repos\\MVC_Client\\Mvc_Client.csproj",
+        "projectUniqueName": "C:\\Users\\Meghana\\Desktop\\gitrepo\\MVC_Client\\Mvc_Client.csproj",
         "projectName": "Mvc_Client",
-        "projectPath": "C:\\Users\\Meghana\\source\\repos\\MVC_Client\\Mvc_Client.csproj",
+        "projectPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\MVC_Client\\Mvc_Client.csproj",
         "packagesPath": "C:\\Users\\Meghana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meghana\\source\\repos\\MVC_Client\\obj\\",
+        "outputPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\MVC_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meghana\\AppData\\Roaming\\NuGet\\NuGet.Config",

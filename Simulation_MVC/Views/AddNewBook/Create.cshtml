@@ -1,0 +1,40 @@
+﻿@model Simulation_MVC.Models.BookViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>BookViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Bookid" class="control-label"></label>
+                <input asp-for="Bookid" class="form-control" />
+                <span asp-validation-for="Bookid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AuthorName" class="control-label"></label>
+                <input asp-for="AuthorName" class="form-control" />
+                <span asp-validation-for="AuthorName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bookname" class="control-label"></label>
+                <input asp-for="Bookname" class="form-control" />
+                <span asp-validation-for="Bookname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookEdition" class="control-label"></label>
+                <input asp-for="BookEdition" class="form-control" />
+                <span asp-validation-for="BookEdition" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="ADD" class="btn btn-primary" asp-controller="AddNewBook" asp-action="Create"/>
+            </div>
+        </form>
+    </div>
+</div>

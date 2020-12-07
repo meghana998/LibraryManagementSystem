@@ -8111,11 +8111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meghana\\source\\repos\\NUnitTestAuthorizationService\\NUnitTestAuthorizationService.csproj",
+      "projectUniqueName": "C:\\Users\\Meghana\\Desktop\\gitrepo\\NUnitTestAuthorizationService\\NUnitTestAuthorizationService.csproj",
       "projectName": "NUnitTestAuthorizationService",
-      "projectPath": "C:\\Users\\Meghana\\source\\repos\\NUnitTestAuthorizationService\\NUnitTestAuthorizationService.csproj",
+      "projectPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\NUnitTestAuthorizationService\\NUnitTestAuthorizationService.csproj",
       "packagesPath": "C:\\Users\\Meghana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meghana\\source\\repos\\NUnitTestAuthorizationService\\obj\\",
+      "outputPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\NUnitTestAuthorizationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meghana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8132,8 +8132,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Meghana\\source\\repos\\AuthorizationService\\AuthorizationService.csproj": {
-              "projectPath": "C:\\Users\\Meghana\\source\\repos\\AuthorizationService\\AuthorizationService.csproj"
+            "C:\\Users\\Meghana\\Desktop\\gitrepo\\AuthorizationService\\AuthorizationService.csproj": {
+              "projectPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\AuthorizationService\\AuthorizationService.csproj"
             }
           }
         }

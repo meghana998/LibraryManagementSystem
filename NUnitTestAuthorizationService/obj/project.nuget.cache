@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d+7M1Bbk6iquE1KGJXlYiOR6XVNocl5xYY4WoKNW9ikxT28G0TO3veWhtsCWPbacWtQcsUa1XTPXLx43neYR/Q==",
+  "dgSpecHash": "A7y2UUgtt+LMS7w3XoNelsTkJJqPpfEKKDKezAmk7slTVRUWpKLcvrA2DZ5CSUGUg5CTecqASA20JAYXMBITng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meghana\\source\\repos\\NUnitTestAuthorizationService\\NUnitTestAuthorizationService.csproj",
+  "projectFilePath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\NUnitTestAuthorizationService\\NUnitTestAuthorizationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meghana\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Meghana\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

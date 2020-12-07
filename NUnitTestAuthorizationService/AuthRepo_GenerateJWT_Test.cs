@@ -1,4 +1,4 @@
-using NUnit.Framework;
+/*using NUnit.Framework;
 using System;
 using Moq;
 using AuthorizationService.Repository;
@@ -60,3 +60,4 @@ namespace NUnitTestAuthorizationService
         }  
     }
 }
+*/

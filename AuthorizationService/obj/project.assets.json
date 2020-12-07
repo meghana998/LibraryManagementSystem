@@ -8324,11 +8324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meghana\\source\\repos\\AuthorizationService\\AuthorizationService.csproj",
+      "projectUniqueName": "C:\\Users\\Meghana\\Desktop\\gitrepo\\AuthorizationService\\AuthorizationService.csproj",
       "projectName": "AuthorizationService",
-      "projectPath": "C:\\Users\\Meghana\\source\\repos\\AuthorizationService\\AuthorizationService.csproj",
+      "projectPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\AuthorizationService\\AuthorizationService.csproj",
       "packagesPath": "C:\\Users\\Meghana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meghana\\source\\repos\\AuthorizationService\\obj\\",
+      "outputPath": "C:\\Users\\Meghana\\Desktop\\gitrepo\\AuthorizationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meghana\\AppData\\Roaming\\NuGet\\NuGet.Config",

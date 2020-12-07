@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Simulation_MVC.Models.BookViewModel>
+
+@{
+    ViewData["Title"] = "DisplayView";
+}
+
+<h1>DisplayView</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookEdition)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bookid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bookname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookEdition)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Bookid })
+                <a class="btn btn-success" href="@Url.Action("Create","AddNewBook")">Add New Book</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

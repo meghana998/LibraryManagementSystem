@@ -219,3 +219,42 @@ INFO  06:06:42 Content root path: C:\Users\Meghana\source\repos\AuthorizationSer
 INFO  06:07:33  Http GET Request From: TokenController
 INFO  06:07:33  GetJsonWebToken method of AuthProvider Called 
 INFO  06:07:45  GenerateJWT method of AuthRepo Called 
+INFO  03:43:42 Application started. Press Ctrl+C to shut down.
+INFO  03:43:42 Application started. Press Ctrl+C to shut down.
+INFO  03:43:42 Hosting environment: Development
+INFO  03:43:42 Hosting environment: Development
+INFO  03:43:42 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  03:43:42 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  03:47:18 Application started. Press Ctrl+C to shut down.
+INFO  03:47:18 Application started. Press Ctrl+C to shut down.
+INFO  03:47:18 Hosting environment: Development
+INFO  03:47:18 Hosting environment: Development
+INFO  03:47:18 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  03:47:18 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  03:47:42  Http GET Request From: TokenController
+INFO  03:47:42  GetJsonWebToken method of AuthProvider Called 
+INFO  03:47:49  GenerateJWT method of AuthRepo Called 
+INFO  11:41:14 Application started. Press Ctrl+C to shut down.
+INFO  11:41:14 Application started. Press Ctrl+C to shut down.
+INFO  11:41:14 Hosting environment: Development
+INFO  11:41:14 Hosting environment: Development
+INFO  11:41:14 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  11:41:14 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  10:02:32 Application started. Press Ctrl+C to shut down.
+INFO  10:02:32 Application started. Press Ctrl+C to shut down.
+INFO  10:02:32 Hosting environment: Development
+INFO  10:02:32 Hosting environment: Development
+INFO  10:02:32 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  10:02:32 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  11:36:23 Application started. Press Ctrl+C to shut down.
+INFO  11:36:23 Application started. Press Ctrl+C to shut down.
+INFO  11:36:23 Hosting environment: Development
+INFO  11:36:23 Hosting environment: Development
+INFO  11:36:23 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  11:36:23 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  11:44:29 Application started. Press Ctrl+C to shut down.
+INFO  11:44:29 Application started. Press Ctrl+C to shut down.
+INFO  11:44:29 Hosting environment: Development
+INFO  11:44:29 Hosting environment: Development
+INFO  11:44:29 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
+INFO  11:44:29 Content root path: C:\Users\Meghana\Desktop\gitrepo\AuthorizationService
